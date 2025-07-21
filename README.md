@@ -11,7 +11,7 @@
 - 📱 Developed **Android apps with Kodular for IoT integration**  
 - 🔧 Designed PCBs and optimized schematics for **automotive telemetry and industrial automation**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dhaivatjoshi-jd)  
-- 🌐 Portfolio: [Portfolio Website](http://dhaivatjoshi.me/)  
+- 🌐 Portfolio: [Portfolio Website](https://dhaivatjoshi.me/)  
 - ⚡ Fun Fact: I designed a **Formula Student Car electronic system**, including a **pneumatic gear shifting system**!  
 
 Let’s connect and build something amazing! 🚀
